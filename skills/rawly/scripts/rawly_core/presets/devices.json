@@ -1,0 +1,1516 @@
+{
+ "devices": [
+  {
+   "id": "apple_0",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone18",
+   "group_label": "iPhone 18",
+   "variant_label": "Pro",
+   "label": "iPhone 18 Pro",
+   "make": "Apple",
+   "model": "iPhone 18 Pro",
+   "software": "27.0.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 18 Pro back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 1
+  },
+  {
+   "id": "apple_1",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone18",
+   "group_label": "iPhone 18",
+   "variant_label": "Pro Max",
+   "label": "iPhone 18 Pro Max",
+   "make": "Apple",
+   "model": "iPhone 18 Pro Max",
+   "software": "27.0.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 18 Pro Max back triple camera 6.86mm f/1.4",
+   "f_number": 1.4,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    640
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 1
+  },
+  {
+   "id": "apple_2",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "duo",
+   "group_label": "iPhone Duo",
+   "variant_label": "Duo",
+   "label": "iPhone Duo",
+   "make": "Apple",
+   "model": "iPhone Duo",
+   "software": "27.0.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone Duo back dual camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 2
+  },
+  {
+   "id": "apple_3",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "air",
+   "group_label": "iPhone Air",
+   "variant_label": "Air",
+   "label": "iPhone Air",
+   "make": "Apple",
+   "model": "iPhone Air",
+   "software": "26.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone Air back camera 6.86mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 3
+  },
+  {
+   "id": "apple_4",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone17",
+   "group_label": "iPhone 17",
+   "variant_label": "17",
+   "label": "iPhone 17",
+   "make": "Apple",
+   "model": "iPhone 17",
+   "software": "26.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 17 back dual camera 5.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 5.7,
+   "focal_35mm": 26,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 4
+  },
+  {
+   "id": "apple_5",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone17",
+   "group_label": "iPhone 17",
+   "variant_label": "Pro",
+   "label": "iPhone 17 Pro",
+   "make": "Apple",
+   "model": "iPhone 17 Pro",
+   "software": "26.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 17 Pro back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 4
+  },
+  {
+   "id": "apple_6",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone17",
+   "group_label": "iPhone 17",
+   "variant_label": "Pro Max",
+   "label": "iPhone 17 Pro Max",
+   "make": "Apple",
+   "model": "iPhone 17 Pro Max",
+   "software": "26.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 17 Pro Max back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 4
+  },
+  {
+   "id": "apple_7",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone16",
+   "group_label": "iPhone 16",
+   "variant_label": "16",
+   "label": "iPhone 16",
+   "make": "Apple",
+   "model": "iPhone 16",
+   "software": "18.2",
+   "exif_version": "0232",
+   "lens_model": "iPhone 16 back dual camera 5.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 5.7,
+   "focal_35mm": 26,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 5
+  },
+  {
+   "id": "apple_8",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone16",
+   "group_label": "iPhone 16",
+   "variant_label": "16e",
+   "label": "iPhone 16e",
+   "make": "Apple",
+   "model": "iPhone 16e",
+   "software": "18.2",
+   "exif_version": "0232",
+   "lens_model": "iPhone 16e back camera 6.44mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 6.44,
+   "focal_35mm": 26,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 5
+  },
+  {
+   "id": "apple_9",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone16",
+   "group_label": "iPhone 16",
+   "variant_label": "Pro",
+   "label": "iPhone 16 Pro",
+   "make": "Apple",
+   "model": "iPhone 16 Pro",
+   "software": "18.2",
+   "exif_version": "0232",
+   "lens_model": "iPhone 16 Pro back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 5
+  },
+  {
+   "id": "apple_10",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone16",
+   "group_label": "iPhone 16",
+   "variant_label": "Pro Max",
+   "label": "iPhone 16 Pro Max",
+   "make": "Apple",
+   "model": "iPhone 16 Pro Max",
+   "software": "18.2",
+   "exif_version": "0232",
+   "lens_model": "iPhone 16 Pro Max back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 5
+  },
+  {
+   "id": "apple_11",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone15",
+   "group_label": "iPhone 15",
+   "variant_label": "15",
+   "label": "iPhone 15",
+   "make": "Apple",
+   "model": "iPhone 15",
+   "software": "18.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 15 back dual camera 5.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 5.7,
+   "focal_35mm": 26,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 6
+  },
+  {
+   "id": "apple_12",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone15",
+   "group_label": "iPhone 15",
+   "variant_label": "Pro",
+   "label": "iPhone 15 Pro",
+   "make": "Apple",
+   "model": "iPhone 15 Pro",
+   "software": "18.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 15 Pro back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 6
+  },
+  {
+   "id": "apple_13",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone15",
+   "group_label": "iPhone 15",
+   "variant_label": "Pro Max",
+   "label": "iPhone 15 Pro Max",
+   "make": "Apple",
+   "model": "iPhone 15 Pro Max",
+   "software": "18.1.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 15 Pro Max back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 6
+  },
+  {
+   "id": "apple_14",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone14",
+   "group_label": "iPhone 14",
+   "variant_label": "14",
+   "label": "iPhone 14",
+   "make": "Apple",
+   "model": "iPhone 14",
+   "software": "17.4.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 14 back dual camera 5.7mm f/1.5",
+   "f_number": 1.5,
+   "focal_length": 5.7,
+   "focal_35mm": 26,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 7
+  },
+  {
+   "id": "apple_15",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone14",
+   "group_label": "iPhone 14",
+   "variant_label": "Pro",
+   "label": "iPhone 14 Pro",
+   "make": "Apple",
+   "model": "iPhone 14 Pro",
+   "software": "17.4.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 14 Pro back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 7
+  },
+  {
+   "id": "apple_16",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone14",
+   "group_label": "iPhone 14",
+   "variant_label": "Pro Max",
+   "label": "iPhone 14 Pro Max",
+   "make": "Apple",
+   "model": "iPhone 14 Pro Max",
+   "software": "17.4.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 14 Pro Max back triple camera 6.86mm f/1.78",
+   "f_number": 1.78,
+   "focal_length": 6.86,
+   "focal_35mm": 24,
+   "iso_range": [
+    64,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 7
+  },
+  {
+   "id": "apple_17",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone13",
+   "group_label": "iPhone 13",
+   "variant_label": "13",
+   "label": "iPhone 13",
+   "make": "Apple",
+   "model": "iPhone 13",
+   "software": "17.4.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 13 back dual wide camera 5.87mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 5.87,
+   "focal_35mm": 26,
+   "iso_range": [
+    100,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 8
+  },
+  {
+   "id": "apple_18",
+   "brand": "apple",
+   "brand_label": "Apple",
+   "group": "iphone13",
+   "group_label": "iPhone 13",
+   "variant_label": "Pro",
+   "label": "iPhone 13 Pro",
+   "make": "Apple",
+   "model": "iPhone 13 Pro",
+   "software": "17.4.1",
+   "exif_version": "0232",
+   "lens_model": "iPhone 13 Pro back triple camera 6.86mm f/1.5",
+   "f_number": 1.5,
+   "focal_length": 6.86,
+   "focal_35mm": 26,
+   "iso_range": [
+    100,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": true,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 8
+  },
+  {
+   "id": "samsung_19",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s26",
+   "group_label": "Galaxy S26",
+   "variant_label": "S26",
+   "label": "Samsung S26",
+   "make": "samsung",
+   "model": "SM-S941B",
+   "software": "941BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S26 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 10
+  },
+  {
+   "id": "samsung_20",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s26",
+   "group_label": "Galaxy S26",
+   "variant_label": "S26+",
+   "label": "Samsung S26+",
+   "make": "samsung",
+   "model": "SM-S946B",
+   "software": "946BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S26+ rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 10
+  },
+  {
+   "id": "samsung_21",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s26",
+   "group_label": "Galaxy S26",
+   "variant_label": "S26 Ultra",
+   "label": "Samsung S26 Ultra",
+   "make": "samsung",
+   "model": "SM-S948B",
+   "software": "948BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S26 Ultra rear camera f1.4",
+   "f_number": 1.4,
+   "focal_length": 6.3,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 10
+  },
+  {
+   "id": "samsung_22",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s25",
+   "group_label": "Galaxy S25",
+   "variant_label": "S25",
+   "label": "Samsung S25",
+   "make": "samsung",
+   "model": "SM-S931B",
+   "software": "931BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S25 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 11
+  },
+  {
+   "id": "samsung_23",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s25",
+   "group_label": "Galaxy S25",
+   "variant_label": "S25+",
+   "label": "Samsung S25+",
+   "make": "samsung",
+   "model": "SM-S936B",
+   "software": "936BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S25+ rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 11
+  },
+  {
+   "id": "samsung_24",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s25",
+   "group_label": "Galaxy S25",
+   "variant_label": "S25 Ultra",
+   "label": "Samsung S25 Ultra",
+   "make": "samsung",
+   "model": "SM-S938B",
+   "software": "938BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S25 Ultra rear camera f1.7",
+   "f_number": 1.7,
+   "focal_length": 6.3,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 11
+  },
+  {
+   "id": "samsung_25",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s25",
+   "group_label": "Galaxy S25",
+   "variant_label": "S25 Edge",
+   "label": "Samsung S25 Edge",
+   "make": "samsung",
+   "model": "SM-S937B",
+   "software": "937BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S25 Edge rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 6.1,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 11
+  },
+  {
+   "id": "samsung_26",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s24",
+   "group_label": "Galaxy S24",
+   "variant_label": "S24",
+   "label": "Samsung S24",
+   "make": "samsung",
+   "model": "SM-S921B",
+   "software": "921BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S24 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 12
+  },
+  {
+   "id": "samsung_27",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s24",
+   "group_label": "Galaxy S24",
+   "variant_label": "S24+",
+   "label": "Samsung S24+",
+   "make": "samsung",
+   "model": "SM-S926B",
+   "software": "926BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S24+ rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 12
+  },
+  {
+   "id": "samsung_28",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s24",
+   "group_label": "Galaxy S24",
+   "variant_label": "S24 Ultra",
+   "label": "Samsung S24 Ultra",
+   "make": "samsung",
+   "model": "SM-S928B",
+   "software": "928BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S24 Ultra rear camera f1.7",
+   "f_number": 1.7,
+   "focal_length": 6.3,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 12
+  },
+  {
+   "id": "samsung_29",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s23",
+   "group_label": "Galaxy S23",
+   "variant_label": "S23",
+   "label": "Samsung S23",
+   "make": "samsung",
+   "model": "SM-S911B",
+   "software": "911BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S23 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 13
+  },
+  {
+   "id": "samsung_30",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s23",
+   "group_label": "Galaxy S23",
+   "variant_label": "S23+",
+   "label": "Samsung S23+",
+   "make": "samsung",
+   "model": "SM-S916B",
+   "software": "916BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S23+ rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 13
+  },
+  {
+   "id": "samsung_31",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "s23",
+   "group_label": "Galaxy S23",
+   "variant_label": "S23 Ultra",
+   "label": "Samsung S23 Ultra",
+   "make": "samsung",
+   "model": "SM-S918B",
+   "software": "918BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "S23 Ultra rear camera f1.7",
+   "f_number": 1.7,
+   "focal_length": 6.3,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 13
+  },
+  {
+   "id": "samsung_32",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "fold7",
+   "group_label": "Galaxy Z Fold7",
+   "variant_label": "Z Fold7",
+   "label": "Samsung Z Fold7",
+   "make": "samsung",
+   "model": "SM-F956B",
+   "software": "956BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "Z Fold7 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 14
+  },
+  {
+   "id": "samsung_33",
+   "brand": "samsung",
+   "brand_label": "Samsung",
+   "group": "flip7",
+   "group_label": "Galaxy Z Flip7",
+   "variant_label": "Z Flip7",
+   "label": "Samsung Z Flip7",
+   "make": "samsung",
+   "model": "SM-F761B",
+   "software": "761BBXXU0AXA1",
+   "exif_version": "0232",
+   "lens_model": "Z Flip7 rear camera f1.8",
+   "f_number": 1.8,
+   "focal_length": 5.8,
+   "focal_35mm": 24,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "hvc1"
+   },
+   "order": 14
+  },
+  {
+   "id": "google_34",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel11",
+   "group_label": "Pixel 11",
+   "variant_label": "11",
+   "label": "Google 11",
+   "make": "Google",
+   "model": "Pixel 11",
+   "software": "AP6A.250805.031",
+   "exif_version": "0232",
+   "lens_model": "Pixel 11 back camera 6.81mm f/1.7",
+   "f_number": 1.7,
+   "focal_length": 6.81,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 20
+  },
+  {
+   "id": "google_35",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel11",
+   "group_label": "Pixel 11",
+   "variant_label": "11 Pro",
+   "label": "Google 11 Pro",
+   "make": "Google",
+   "model": "Pixel 11 Pro",
+   "software": "AP6A.250805.031",
+   "exif_version": "0232",
+   "lens_model": "Pixel 11 Pro back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 20
+  },
+  {
+   "id": "google_36",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel11",
+   "group_label": "Pixel 11",
+   "variant_label": "11 Pro XL",
+   "label": "Google 11 Pro XL",
+   "make": "Google",
+   "model": "Pixel 11 Pro XL",
+   "software": "AP6A.250805.031",
+   "exif_version": "0232",
+   "lens_model": "Pixel 11 Pro XL back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 20
+  },
+  {
+   "id": "google_37",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel11",
+   "group_label": "Pixel 11",
+   "variant_label": "11 Pro Fold",
+   "label": "Google 11 Pro Fold",
+   "make": "Google",
+   "model": "Pixel 11 Pro Fold",
+   "software": "AP6A.250805.031",
+   "exif_version": "0232",
+   "lens_model": "Pixel 11 Pro Fold back camera 6.81mm f/1.7",
+   "f_number": 1.7,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 20
+  },
+  {
+   "id": "google_38",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel10",
+   "group_label": "Pixel 10",
+   "variant_label": "10",
+   "label": "Google 10",
+   "make": "Google",
+   "model": "Pixel 10",
+   "software": "AP5A.250505.012",
+   "exif_version": "0232",
+   "lens_model": "Pixel 10 back camera 6.81mm f/1.7",
+   "f_number": 1.7,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 21
+  },
+  {
+   "id": "google_39",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel10",
+   "group_label": "Pixel 10",
+   "variant_label": "10 Pro",
+   "label": "Google 10 Pro",
+   "make": "Google",
+   "model": "Pixel 10 Pro",
+   "software": "AP5A.250505.012",
+   "exif_version": "0232",
+   "lens_model": "Pixel 10 Pro back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 21
+  },
+  {
+   "id": "google_40",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel10",
+   "group_label": "Pixel 10",
+   "variant_label": "10 Pro XL",
+   "label": "Google 10 Pro XL",
+   "make": "Google",
+   "model": "Pixel 10 Pro XL",
+   "software": "AP5A.250505.012",
+   "exif_version": "0232",
+   "lens_model": "Pixel 10 Pro XL back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 21
+  },
+  {
+   "id": "google_41",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel9",
+   "group_label": "Pixel 9",
+   "variant_label": "9",
+   "label": "Google 9",
+   "make": "Google",
+   "model": "Pixel 9",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 9 back camera 6.81mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 22
+  },
+  {
+   "id": "google_42",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel9",
+   "group_label": "Pixel 9",
+   "variant_label": "9 Pro",
+   "label": "Google 9 Pro",
+   "make": "Google",
+   "model": "Pixel 9 Pro",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 9 Pro back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 22
+  },
+  {
+   "id": "google_43",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel9",
+   "group_label": "Pixel 9",
+   "variant_label": "9 Pro XL",
+   "label": "Google 9 Pro XL",
+   "make": "Google",
+   "model": "Pixel 9 Pro XL",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 9 Pro XL back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 22
+  },
+  {
+   "id": "google_44",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel9",
+   "group_label": "Pixel 9",
+   "variant_label": "9a",
+   "label": "Google 9a",
+   "make": "Google",
+   "model": "Pixel 9a",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 9a back camera 6.81mm f/1.9",
+   "f_number": 1.9,
+   "focal_length": 6.81,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 22
+  },
+  {
+   "id": "google_45",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel8",
+   "group_label": "Pixel 8",
+   "variant_label": "8",
+   "label": "Google 8",
+   "make": "Google",
+   "model": "Pixel 8",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 8 back camera 6.81mm f/1.7",
+   "f_number": 1.7,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 23
+  },
+  {
+   "id": "google_46",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel8",
+   "group_label": "Pixel 8",
+   "variant_label": "8 Pro",
+   "label": "Google 8 Pro",
+   "make": "Google",
+   "model": "Pixel 8 Pro",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 8 Pro back camera 6.9mm f/1.68",
+   "f_number": 1.68,
+   "focal_length": 6.9,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 23
+  },
+  {
+   "id": "google_47",
+   "brand": "google",
+   "brand_label": "Google",
+   "group": "pixel8",
+   "group_label": "Pixel 8",
+   "variant_label": "8a",
+   "label": "Google 8a",
+   "make": "Google",
+   "model": "Pixel 8a",
+   "software": "AP4A.250105.002",
+   "exif_version": "0232",
+   "lens_model": "Pixel 8a back camera 6.81mm f/1.9",
+   "f_number": 1.9,
+   "focal_length": 6.81,
+   "focal_35mm": 25,
+   "iso_range": [
+    43,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 23
+  },
+  {
+   "id": "xiaomi_48",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi15",
+   "group_label": "Xiaomi 15",
+   "variant_label": "15",
+   "label": "Xiaomi 15",
+   "make": "Xiaomi",
+   "model": "24129PN74C",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 15 back camera 7.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 7.7,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 30
+  },
+  {
+   "id": "xiaomi_49",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi15",
+   "group_label": "Xiaomi 15",
+   "variant_label": "15 Pro",
+   "label": "Xiaomi 15 Pro",
+   "make": "Xiaomi",
+   "model": "24116SPXAC",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 15 Pro back camera 7.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 7.7,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 30
+  },
+  {
+   "id": "xiaomi_50",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi15",
+   "group_label": "Xiaomi 15",
+   "variant_label": "15 Ultra",
+   "label": "Xiaomi 15 Ultra",
+   "make": "Xiaomi",
+   "model": "25010PN30C",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 15 Ultra back camera 9.2mm f/1.63",
+   "f_number": 1.63,
+   "focal_length": 9.2,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 30
+  },
+  {
+   "id": "xiaomi_51",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi14",
+   "group_label": "Xiaomi 14",
+   "variant_label": "14",
+   "label": "Xiaomi 14",
+   "make": "Xiaomi",
+   "model": "23127PN0CC",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 14 back camera 7.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 7.7,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 31
+  },
+  {
+   "id": "xiaomi_52",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi14",
+   "group_label": "Xiaomi 14",
+   "variant_label": "14 Pro",
+   "label": "Xiaomi 14 Pro",
+   "make": "Xiaomi",
+   "model": "23116PN8BC",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 14 Pro back camera 7.7mm f/1.6",
+   "f_number": 1.6,
+   "focal_length": 7.7,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 31
+  },
+  {
+   "id": "xiaomi_53",
+   "brand": "xiaomi",
+   "brand_label": "Xiaomi",
+   "group": "mi14",
+   "group_label": "Xiaomi 14",
+   "variant_label": "14 Ultra",
+   "label": "Xiaomi 14 Ultra",
+   "make": "Xiaomi",
+   "model": "2401113SY",
+   "software": "HyperOS 3.0",
+   "exif_version": "0232",
+   "lens_model": "Xiaomi 14 Ultra back camera 9.2mm f/1.63",
+   "f_number": 1.63,
+   "focal_length": 9.2,
+   "focal_35mm": 23,
+   "iso_range": [
+    50,
+    800
+   ],
+   "color_space": 1,
+   "jpeg_quality": 92,
+   "mpf": false,
+   "video": {
+    "codec": "avc1"
+   },
+   "order": 31
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# Validated versions of the four media-processing dependencies.
+numpy==2.4.6
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+pillow-heif==1.7.0

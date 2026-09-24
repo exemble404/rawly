@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rawly"
+  short_description: "Local media cleanup, profiles and batch processing"
+  default_prompt: "Use $rawly to process my media files into a separate output folder."
