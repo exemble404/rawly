@@ -215,5 +215,5 @@ python3 install.py --host both --uninstall
 [MIT](LICENSE). Используются [Pillow](https://python-pillow.org/),
 [NumPy](https://numpy.org/), [OpenCV](https://opencv.org/),
 [FFmpeg](https://ffmpeg.org/) и [ExifTool](https://exiftool.org/).
-Структура оформления вдохновлена [Z.A.E.B.A.L.](https://github.com/howdeploy/Z.A.E.B.A.L).
+Оформление README вдохновлено работами [howdeploy](https://github.com/howdeploy).
 Иллюстрация и реализация Rawly находятся в этом репозитории.

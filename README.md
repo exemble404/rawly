@@ -216,5 +216,5 @@ outside the skill folders are left in place.
 [MIT](LICENSE). Built with [Pillow](https://python-pillow.org/),
 [NumPy](https://numpy.org/), [OpenCV](https://opencv.org/),
 [FFmpeg](https://ffmpeg.org/) and [ExifTool](https://exiftool.org/).
-README presentation inspired by [Z.A.E.B.A.L.](https://github.com/howdeploy/Z.A.E.B.A.L).
+README presentation inspired by the work of [howdeploy](https://github.com/howdeploy).
 Rawly's artwork and implementation are maintained in this repository.
