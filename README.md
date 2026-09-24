@@ -140,8 +140,8 @@ skills/rawly/.venv/bin/python skills/rawly/scripts/rawly.py doctor
 skills/rawly/.venv/bin/python skills/rawly/scripts/rawly.py process ./input --output ./output
 ```
 
-Add `--recursive` for subfolders. Files are processed one at a time; there is no
-Telegram file-size cap or paid tier. The default photo limit is **24 megapixels**
+Add `--recursive` for subfolders. Files are processed one at a time, with no paid tiers.
+The default photo limit is **24 megapixels**
 to bound RAM use. Output names retain the original filename, for example
 `photo.jpg.rawly.png`. Existing output files are skipped with an error in the report.
 
@@ -189,8 +189,8 @@ rawly/
 └── .github/workflows/ci.yml       # automated checks
 ```
 
-The installed skill carries its own runtime. No server, database, bot token or
-external service is required. Processing code is shared by both agents and the CLI.
+The installed skill carries its own runtime. Processing runs locally; both agents
+and the CLI use the same code.
 
 ## Development
 
@@ -199,8 +199,8 @@ python3 skills/rawly/scripts/bootstrap.py
 skills/rawly/.venv/bin/python -m unittest discover -s tests -v
 ```
 
-Tests generate their own media. Private photos, keys, logs and old bot data are not
-part of this repository. Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the D recipe.
+Tests generate their own media. Private photos, credentials and logs are not part of
+this repository. Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the D recipe.
 
 ## Uninstall
 
